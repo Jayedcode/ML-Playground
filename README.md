@@ -18,11 +18,11 @@ This is a **Machine Learning Prediction App** built with **Streamlit**. The app 
 ## 🏗 Deployment
 To deploy on Streamlit Cloud:
 
-Push your project to GitHub.
-Go to Streamlit Cloud and connect your repo.
-Deploy and share your app!
+##Push your project to GitHub.
+ -** Go to Streamlit Cloud and connect your repo.**
+-** Deploy and share your app!**
 
-🛠 Requirements
+## 🛠 Requirements
 Python 3.7+
 Streamlit
 NumPy, Pandas, Scikit-learn (or any ML library used)
